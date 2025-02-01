@@ -85,6 +85,7 @@ A directory for free and friendly communities to get eyes on your side projects!
 * [Crunchbase](https://www.crunchbase.com/) - A business information platform where you can list your startup and track your progress.
 * [GetApp](https://www.getapp.com/) - A site to list and promote your software products to businesses and decision-makers.
 * [SaaSworthy](https://www.saasworthy.com/) - A platform to list, compare, and review SaaS products.
+* [Huntlie](https://huntlie.com) - A platform where you can launch, showcase, and sell your side project. It offers a free feedback and analytics system.
 
 ## Forums & Slack Groups
 * [GrowthHackers](https://growthhackers.com/) - A community of marketers and entrepreneurs who share strategies for growing side projects.
